@@ -1,0 +1,27 @@
+body{
+	 font-family: Arial-cursive;
+    text-align: center;
+    background-image: url('1.png');
+    background-size: cover;
+}
+
+h1 {
+	background: linear-gradient(to bottom, rgba(0,0,102,0.7), rgba(102, 0, 102, 0.5));
+    border: 1px solid #000000ff;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 50px;
+    width: 400px;
+    text-align: center;
+    clear: both;
+    color: #fff;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    
+    
+
